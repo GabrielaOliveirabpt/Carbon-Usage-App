@@ -18,3 +18,5 @@ To use the app, please just add the required information and press "Calculate my
 
 Thanks for checking it out :)
 
+<img width="747" alt="Screenshot 2021-09-13 at 17 39 49" src="https://user-images.githubusercontent.com/37146301/133114801-f2e3ce1b-5b32-4533-aa47-7aaca1ac66a0.png">
+<img width="744" alt="Screenshot 2021-09-13 at 17 40 10" src="https://user-images.githubusercontent.com/37146301/133114814-19dc9c26-e34b-4e07-ba2a-100c82b37c8a.png">
