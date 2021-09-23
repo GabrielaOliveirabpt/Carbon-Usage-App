@@ -15,7 +15,7 @@ class App extends Component {
     };
   }
   gettingCarbonUsage = async () => {
-    const token = '22WChiSP36YNdOkaNuLCtQ';
+    const token = '<token>';
     const config = {
       headers: { Authorization: `Bearer ${token}`, type: 'application/json'}
     };
